@@ -25,3 +25,5 @@ Enter your lanugage what U want :1:2
 
 
 python project
+![py](https://user-images.githubusercontent.com/65504920/123463903-ba163780-d609-11eb-8fc9-c64b3d96fa90.png)
+![py1](https://user-images.githubusercontent.com/65504920/123463911-bd112800-d609-11eb-81f3-d89e94b57c63.png)
